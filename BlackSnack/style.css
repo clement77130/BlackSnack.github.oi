@@ -1,0 +1,35 @@
+h3.event1 {
+    text-decoration: line-through red;
+}
+
+h3.event2 {
+    text-decoration: line-through red;
+}
+
+h3.event3 {
+    text-decoration: line-through red;
+}
+
+h3.event1 {
+    text-shadow: 2px 2px 5px #952222;
+}
+
+h3.event2 {
+    text-shadow: 2px 2px 5px #952222;
+}
+
+h3.event3 {
+    text-shadow: 2px 2px 5px #952222;
+}
+
+h3.event1 {
+    text-align: center;
+}
+
+h3.event2 {
+    text-align: center;
+}
+
+h3.event3 {
+    text-align: center;
+}
